@@ -26,11 +26,11 @@ I specialize in:
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NassimBahri&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NassimBahri&layout=compact&theme=default" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NassimBahri&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=NassimBahri&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NassimBahri&theme=transparent&hide_border=false)<br/>
 
 ---
 
